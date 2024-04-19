@@ -9,3 +9,4 @@ else:
 
 dict["Carrera"] = "Psicología"
 print(dict)
+print(type(dict))
