@@ -1,0 +1,12 @@
+list = [True, 32.1, False, False, 12.0, 17.5]
+print(list)
+print(f"Penúltimo valor: {list[-2]}")
+print(f"Último valor: {list[-1]}")
+print(f"Tipo de dato del primer valor es: {type(list[0])}")
+print(f"Tipo de dato del segundo valor es: {type(list[1])}")
+print(f"Tipo de dato del tercer valor es: {type(list[2])}")
+print(f"Tipo de dato del cuarto valor es: {type(list[3])}")
+print(f"Tipo de dato del quinto valor es: {type(list[4])}")
+print(f"Tipo de dato del sexto valor es: {type(list[5])}")
+list.clear()
+print(f"El estado de la lista actualizada es: {list}")
