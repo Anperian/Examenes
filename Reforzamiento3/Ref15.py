@@ -1,1 +1,0 @@
-#Crea un módulo llamado generador.py
